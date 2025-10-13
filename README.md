@@ -26,7 +26,3 @@ It is based on a dataset from the TravelTide Mastery Project (Masterschool) and 
 ![PCA Scree Plot](reports/pca_scree.png)
 ![Cluster Heatmap](reports/heatmap_clusterwerte.png)
 ![Booking Rate](reports/buchungsrate_pro_perk.png)
-
----
-
-## Repository Structure
