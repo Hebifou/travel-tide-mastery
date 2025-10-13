@@ -23,10 +23,10 @@ It is based on a dataset from the TravelTide Mastery Project (Masterschool) and 
 | **Cluster Heatmap** | Displays cluster-level feature averages across key behavioral metrics |
 | **Simulated Booking Rate per Perk** | Illustrates how perks might influence conversion rates |
 
-![PCA Scree Plot](reports/figures/pca_scree.png)
-![Cluster Heatmap](reports/figures/heatmap_clusterwerte.png)
-![Booking Rate](reports/figures/buchungsrate_pro_perk.png)
+![PCA Scree Plot](reports/pca_scree.png)
+![Cluster Heatmap](reports/heatmap_clusterwerte.png)
+![Booking Rate](reports/buchungsrate_pro_perk.png)
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
