@@ -1,4 +1,4 @@
-# TravelTide – Customer Segmentation & Perk Strategy (Public Version)
+# TravelTide – Customer Segmentation & Perk Strategy
 
 This project demonstrates an **end-to-end customer segmentation analysis** using **PCA** and **HDBSCAN**, followed by a simulated **perk recommendation strategy**.  
 It is based on a dataset from the TravelTide Mastery Project (Masterschool) and has been adapted for public viewing — all results are reproducible from a sample CSV.
